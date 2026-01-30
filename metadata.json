@@ -1,0 +1,8 @@
+{
+  "name": "MMM",
+  "description": "A comprehensive platform for medical students applying to Army, Navy, and Air Force residency programs, featuring program details, faculty-managed content, and AI-assisted matching guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
